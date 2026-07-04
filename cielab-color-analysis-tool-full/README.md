@@ -30,14 +30,6 @@ ColorLabPicker
    - `ROI Mean Color`：框選區域計算平均色彩
 4. 按 `Export CSV` 匯出結果。
 
-## Python 版本使用方式
-
-如果沒有 MATLAB，也可以使用 Python 版本：
-
-```bash
-pip install -r requirements.txt
-python ColorLabPicker.py
-```
 
 ## 色差公式
 
@@ -55,8 +47,3 @@ MATLAB 版本：
 
 - MATLAB
 - Image Processing Toolbox
-
-Python 版本：
-
-- Python 3
-- Pillow
